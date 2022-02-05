@@ -23,3 +23,4 @@ class UserInfo extends User {
 }
 
 const user1 = new UserInfo('Nikhai', 'Busarov', 23, false, false)
+const user2 = new UserInfo('Nikhai', 'Busarov', 23, false, false)
