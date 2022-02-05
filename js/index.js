@@ -1,2 +1,2 @@
 'use strict'
-console.log('tralalla')
+console.log('tralalla');
